@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-10T06:32:16 PDT" name="Suite" finished-at="2023-10-10T06:32:20 PDT" duration-ms="3777">
+    <groups>
+    </groups>
+    <test started-at="2023-10-10T06:32:16 PDT" name="Basics" finished-at="2023-10-10T06:32:20 PDT" duration-ms="3777">
+      <class name="CrudMethodTesting.BasicsCrudMethods">
+        <test-method is-config="true" signature="preTest()[pri:0, instance:CrudMethodTesting.BasicsCrudMethods@3c419631]" started-at="2023-10-10T06:32:16 PDT" name="preTest" finished-at="2023-10-10T06:32:19 PDT" duration-ms="3041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="AddNewData()[pri:1, instance:CrudMethodTesting.BasicsCrudMethods@3c419631]" started-at="2023-10-10T06:32:20 PDT" name="AddNewData" finished-at="2023-10-10T06:32:20 PDT" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewData -->
+        <test-method signature="UpdateCustomerNumber()[pri:2, instance:CrudMethodTesting.BasicsCrudMethods@3c419631]" started-at="2023-10-10T06:32:20 PDT" name="UpdateCustomerNumber" finished-at="2023-10-10T06:32:20 PDT" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateCustomerNumber -->
+        <test-method signature="SelectOneCustomer()[pri:3, instance:CrudMethodTesting.BasicsCrudMethods@3c419631]" started-at="2023-10-10T06:32:20 PDT" name="SelectOneCustomer" finished-at="2023-10-10T06:32:20 PDT" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectOneCustomer -->
+        <test-method is-config="true" signature="postTest()[pri:0, instance:CrudMethodTesting.BasicsCrudMethods@3c419631]" started-at="2023-10-10T06:32:20 PDT" name="postTest" finished-at="2023-10-10T06:32:20 PDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+      </class> <!-- CrudMethodTesting.BasicsCrudMethods -->
+    </test> <!-- Basics -->
+  </suite> <!-- Suite -->
+</testng-results>
